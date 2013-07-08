@@ -1,3 +1,9 @@
+# Valley Summit 
+
+A staging area to get going on the Valley Summit website
+
+# HTML 5 Notes below
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
